@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background: linear-gradient(0.25turn, #0b1219, #3f5f9d, #1a131b);
+  font-family: serif !important;
+}
